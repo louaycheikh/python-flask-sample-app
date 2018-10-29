@@ -4,6 +4,8 @@ Original source code from https://github.com/pallets/flask/tree/16d83d6bb413bec0
 
 ## Docker instructions
 
+# ADDED TEST COMMIT
+
 To create a docker image execute: 
 
 `docker build . -t minitwit`
